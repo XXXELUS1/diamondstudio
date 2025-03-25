@@ -28,7 +28,7 @@
   // 🔁 Заменённый блок — редирект вместо модалки
   document.querySelectorAll(".js-btnToModal").forEach(function(e){
     e.addEventListener("click",function(){
-      window.open(https://t.me/diamond_proff", "_blank");
+      window.open("https://t.me/diamond_proff", "_blank");
     });
   });
 
