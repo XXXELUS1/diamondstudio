@@ -1,0 +1,296 @@
+Uri: https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;700&display=swap
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgo6eA.ttf
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\s\ubuntu\v20\4iCs6KVjbNBYlgo6eA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCjC3Ttw.ttf
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\s\ubuntu\v20\4iCv6KVjbNBYlgoCjC3Ttw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCxCvTtw.ttf
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\s\ubuntu\v20\4iCv6KVjbNBYlgoCxCvTtw.ttf
+Content Type: font/ttf
+
+Uri: https://grandmodels.online/
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\index.htm
+Content Type: text/html
+
+Uri: https://grandmodels.online/css/index.css
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\css\index.css
+Content Type: text/css
+
+Uri: https://grandmodels.online/fonts/Ubuntu-Bold.ttf
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\fonts\Ubuntu-Bold.ttf
+Content Type: font/sfnt
+
+Uri: https://grandmodels.online/fonts/Ubuntu-Medium.ttf
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\fonts\Ubuntu-Medium.ttf
+Content Type: font/sfnt
+
+Uri: https://grandmodels.online/fonts/Ubuntu-Regular.ttf
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\fonts\Ubuntu-Regular.ttf
+Content Type: font/sfnt
+
+Uri: https://grandmodels.online/ijc/
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\ijc\index.htm
+Content Type: application/javascript
+
+Uri: https://grandmodels.online/images/articles/kak_sohranit_svoyu_anonimnost_rabotaya_webcam_modelyu.jpg
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\articles\kak_sohranit_svoyu_anonimnost_rabotaya_webcam_modelyu.jpg
+Content Type: image/jpeg
+
+Uri: https://grandmodels.online/images/articles/kak_stat_webcam_modelu.jpg
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\articles\kak_stat_webcam_modelu.jpg
+Content Type: image/jpeg
+
+Uri: https://grandmodels.online/images/articles/kak_ustroitsa_v_webcam.jpg
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\articles\kak_ustroitsa_v_webcam.jpg
+Content Type: image/jpeg
+
+Uri: https://grandmodels.online/images/articles/preimushestva_raboti_v_videochate.jpg
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\articles\preimushestva_raboti_v_videochate.jpg
+Content Type: image/jpeg
+
+Uri: https://grandmodels.online/images/articles/privat_bez_razdevaniya.jpg
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\articles\privat_bez_razdevaniya.jpg
+Content Type: image/jpeg
+
+Uri: https://grandmodels.online/images/articles/skolko_zarabativaet_webcam_model.jpg
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\articles\skolko_zarabativaet_webcam_model.jpg
+Content Type: image/jpeg
+
+Uri: https://grandmodels.online/images/calculator/desktop@2x.png
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\calculator\desktop@2x.png
+Content Type: image/png
+
+Uri: https://grandmodels.online/images/calculator/mobile@2x.png
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\calculator\mobile@2x.png
+Content Type: image/png
+
+Uri: https://grandmodels.online/images/calculator/tablet@2x.png
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\calculator\tablet@2x.png
+Content Type: image/png
+
+Uri: https://grandmodels.online/images/capabilities/desktop@2x.png
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\capabilities\desktop@2x.png
+Content Type: image/png
+
+Uri: https://grandmodels.online/images/capabilities/mobile-smoke@2x.png
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\capabilities\mobile-smoke@2x.png
+Content Type: image/png
+
+Uri: https://grandmodels.online/images/capabilities/mobile@2x.png
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\capabilities\mobile@2x.png
+Content Type: image/png
+
+Uri: https://grandmodels.online/images/capabilities/tablet@2x.png
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\capabilities\tablet@2x.png
+Content Type: image/png
+
+Uri: https://grandmodels.online/images/icon.png
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\icon.png
+Content Type: image/png
+
+Uri: https://grandmodels.online/images/icons/arrow-down.svg
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\icons\arrow-down.svg
+Content Type: image/svg+xml
+
+Uri: https://grandmodels.online/images/icons/beginner.svg
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\icons\beginner.svg
+Content Type: image/svg+xml
+
+Uri: https://grandmodels.online/images/icons/dmca-protected.svg
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\icons\dmca-protected.svg
+Content Type: image/svg+xml
+
+Uri: https://grandmodels.online/images/icons/done.svg
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\icons\done.svg
+Content Type: image/svg+xml
+
+Uri: https://grandmodels.online/images/icons/icon-camera.svg
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\icons\icon-camera.svg
+Content Type: image/svg+xml
+
+Uri: https://grandmodels.online/images/icons/icon-card.svg
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\icons\icon-card.svg
+Content Type: image/svg+xml
+
+Uri: https://grandmodels.online/images/icons/icon-cash-up.svg
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\icons\icon-cash-up.svg
+Content Type: image/svg+xml
+
+Uri: https://grandmodels.online/images/icons/icon-computer.svg
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\icons\icon-computer.svg
+Content Type: image/svg+xml
+
+Uri: https://grandmodels.online/images/icons/icon-conversation.svg
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\icons\icon-conversation.svg
+Content Type: image/svg+xml
+
+Uri: https://grandmodels.online/images/icons/icon-fire.svg
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\icons\icon-fire.svg
+Content Type: image/svg+xml
+
+Uri: https://grandmodels.online/images/icons/icon-heart.svg
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\icons\icon-heart.svg
+Content Type: image/svg+xml
+
+Uri: https://grandmodels.online/images/icons/icon-home.svg
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\icons\icon-home.svg
+Content Type: image/svg+xml
+
+Uri: https://grandmodels.online/images/icons/icon-laptop.svg
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\icons\icon-laptop.svg
+Content Type: image/svg+xml
+
+Uri: https://grandmodels.online/images/icons/icon-personal.svg
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\icons\icon-personal.svg
+Content Type: image/svg+xml
+
+Uri: https://grandmodels.online/images/icons/icon-wallet.svg
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\icons\icon-wallet.svg
+Content Type: image/svg+xml
+
+Uri: https://grandmodels.online/images/icons/prifinance.svg
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\icons\prifinance.svg
+Content Type: image/svg+xml
+
+Uri: https://grandmodels.online/images/icons/tips.svg
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\icons\tips.svg
+Content Type: image/svg+xml
+
+Uri: https://grandmodels.online/images/lang_en.svg
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\lang_en.svg
+Content Type: image/svg+xml
+
+Uri: https://grandmodels.online/images/lang_ru.svg
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\lang_ru.svg
+Content Type: image/svg+xml
+
+Uri: https://grandmodels.online/images/lang_ua.svg
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\lang_ua.svg
+Content Type: image/svg+xml
+
+Uri: https://grandmodels.online/images/logo_ru.svg
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\logo_ru.svg
+Content Type: image/svg+xml
+
+Uri: https://grandmodels.online/images/main/desktop@2x.png
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\main\desktop@2x.png
+Content Type: image/png
+
+Uri: https://grandmodels.online/images/main/mobile@2x.png
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\main\mobile@2x.png
+Content Type: image/png
+
+Uri: https://grandmodels.online/images/main/tablet@2x.png
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\main\tablet@2x.png
+Content Type: image/png
+
+Uri: https://grandmodels.online/images/slider-articles/desktop@2x.png
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\slider-articles\desktop@2x.png
+Content Type: image/png
+
+Uri: https://grandmodels.online/images/slider-articles/mobile@2x.png
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\slider-articles\mobile@2x.png
+Content Type: image/png
+
+Uri: https://grandmodels.online/images/slider-articles/tablet@2x.png
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\slider-articles\tablet@2x.png
+Content Type: image/png
+
+Uri: https://grandmodels.online/images/what-job/desktop@2x.png
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\what-job\desktop@2x.png
+Content Type: image/png
+
+Uri: https://grandmodels.online/images/what-job/mobile@2x.png
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\what-job\mobile@2x.png
+Content Type: image/png
+
+Uri: https://grandmodels.online/images/what-job/tablet@2x.png
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\what-job\tablet@2x.png
+Content Type: image/png
+
+Uri: https://grandmodels.online/images/work-format/desktop@2x.png
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\work-format\desktop@2x.png
+Content Type: image/png
+
+Uri: https://grandmodels.online/images/work-format/mobile@2x.png
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\work-format\mobile@2x.png
+Content Type: image/png
+
+Uri: https://grandmodels.online/images/you-need-before-work/mobile@2x.png
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\you-need-before-work\mobile@2x.png
+Content Type: image/png
+
+Uri: https://grandmodels.online/images/you-need-before-work/tablet@2x.png
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\you-need-before-work\tablet@2x.png
+Content Type: image/png
+
+Uri: https://grandmodels.online/images/you-protected/desktop@2x.png
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\you-protected\desktop@2x.png
+Content Type: image/png
+
+Uri: https://grandmodels.online/images/you-protected/mobile@2x.png
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\you-protected\mobile@2x.png
+Content Type: image/png
+
+Uri: https://grandmodels.online/images/you-protected/tablet@2x.png
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\you-protected\tablet@2x.png
+Content Type: image/png
+
+Uri: https://grandmodels.online/images/your-income/desktop@2x.png
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\your-income\desktop@2x.png
+Content Type: image/png
+
+Uri: https://grandmodels.online/images/your-income/mobile@2x.png
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\your-income\mobile@2x.png
+Content Type: image/png
+
+Uri: https://grandmodels.online/images/your-income/tablet@2x.png
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\images\your-income\tablet@2x.png
+Content Type: image/png
+
+Uri: https://grandmodels.online/js/ajax.js
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\js\ajax.js
+Content Type: application/javascript
+
+Uri: https://grandmodels.online/js/bg-loader.js
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\js\bg-loader.js
+Content Type: application/javascript
+
+Uri: https://grandmodels.online/js/calculator.js
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\js\calculator.js
+Content Type: application/javascript
+
+Uri: https://grandmodels.online/js/custom-select.js
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\js\custom-select.js
+Content Type: application/javascript
+
+Uri: https://grandmodels.online/js/header-menu.js
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\js\header-menu.js
+Content Type: application/javascript
+
+Uri: https://grandmodels.online/js/modals.js
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\js\modals.js
+Content Type: application/javascript
+
+Uri: https://grandmodels.online/js/slider-articles.js
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\js\slider-articles.js
+Content Type: application/javascript
+
+Uri: https://grandmodels.online/js/slider.js
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\js\slider.js
+Content Type: application/javascript
+
+Uri: https://grandmodels.online/js/swipe.js
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\js\swipe.js
+Content Type: application/javascript
+
+Uri: https://images.dmca.com/Badges/DMCABadgeHelper.min.js
+File Name: C:\Users\User\Desktop\Новая папка\grandmodels.online\Badges\DMCABadgeHelper.min.js
+Content Type: application/javascript
+
